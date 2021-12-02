@@ -7,4 +7,8 @@ My future goals :
   c. Belajar Fundamental Front-End Web Developer.
      - Sintaks ES6, Web Component.
 - Belajar Back-End Web Developer.
+  a. Cloud Practitioner Essentials (Belajar Dasar AWS Cloud).
+     - Dasar AWS Cloud
+  b. Belajar Dasar Pemrograman JavaScript
+     - Pelajari dasar JavaScript, dari fundamental, sintaks dan fitur ES6, hingga konsep automation test menggunakan framework populer.
 - Belajar Machine Learning Developer.
