@@ -12,3 +12,6 @@ My future goals :
   b. Belajar Dasar Pemrograman JavaScript
      - Pelajari dasar JavaScript, dari fundamental, sintaks dan fitur ES6, hingga konsep automation test menggunakan framework populer.
 - Belajar Machine Learning Developer.
+  a. Belajar memulai pemrograman dengan Python.
+     - Belajar Python yang menjadi landasan penting berbagai tren industri seperti ilmu data, pemelajaran mesin, dan manajemen infrastruktur.
+     - Pelajari materi dasar pengembangan machine learning dan langkah menciptakan model machine learning pertamamu untuk memproses data.
