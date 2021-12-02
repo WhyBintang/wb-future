@@ -8,3 +8,6 @@ My future goals :
      - Sintaks ES6, Web Component.
 - Belajar Back-End Web Developer.
 - Belajar Machine Learning Developer.
+  a. Belajar memulai pemrograman dengan Python.
+     - Belajar Python yang menjadi landasan penting berbagai tren industri seperti ilmu data, pemelajaran mesin, dan manajemen infrastruktur.
+     - Pelajari materi dasar pengembangan machine learning dan langkah menciptakan model machine learning pertamamu untuk memproses data.
