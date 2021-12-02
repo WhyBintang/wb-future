@@ -1,4 +1,10 @@
-My future goals
-- Belajar Front-End Web Developer
-- Belajar Back-End Web Developer
-- Belajar Machine Learning Developer
+My future goals :
+- Belajar Front-End Web Developer.
+  a. Belajar dasar pemrograman Web.
+     - HTML, CSS and JavaScript.
+  b. Belajar membuat Front-End Web untuk pemula.
+     - JavaScript, DOM Manipulation and Web Storage.
+  c. Belajar Fundamental Front-End Web Developer.
+     - Sintaks ES6, Web Component.
+- Belajar Back-End Web Developer.
+- Belajar Machine Learning Developer.
